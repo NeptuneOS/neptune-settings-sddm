@@ -1,0 +1,12 @@
+Source: neptune-settings-sddm
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: neptune-settings-sddm
+Architecture: all
+Depends: sddm, sddm-theme-breeze
+Description: SDDM settings
+  This package provides the default sddm login manager configuration for Neptune.

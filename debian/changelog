@@ -1,0 +1,18 @@
+neptune-settings-sddm (1.2) stretch; urgency=medium
+
+  * Added 00_plasma to xsessions for sddm to pick it up as default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 23 Jun 2017 20:59:50 +0200
+
+neptune-settings-sddm (1.1) unstable; urgency=medium
+
+  * Added breeze-black sddm theme
+  * Set breeze-black sddm theme as default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 03 May 2017 19:40:14 +0200
+
+neptune-settings-sddm (1.0) unstable; urgency=medium
+
+  * Initial release
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 03 May 2017 12:53:09 +0200
