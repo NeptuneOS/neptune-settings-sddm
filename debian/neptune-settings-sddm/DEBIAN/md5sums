@@ -1,4 +1,4 @@
-21b8d74f83820ebcfe6771116245d4e8  usr/share/doc/neptune-settings-sddm/changelog.gz
+eae1b712c83d142aab14b40f35caa289  usr/share/doc/neptune-settings-sddm/changelog.gz
 b4feea56ff87fe6514b7b06aeccd6612  usr/share/doc/neptune-settings-sddm/copyright
 3d532b17f402b5da121d059b0571d48b  usr/share/sddm/themes/breeze-black/Background.qml
 8a4a3f2ef74027ca2023a17b75d054bb  usr/share/sddm/themes/breeze-black/Clock.qml
@@ -13,7 +13,7 @@ d90de4f776c7e4d4ce1ef984710303f8  usr/share/sddm/themes/breeze-black/components/
 a41aab41acbda43f0caf1de6c0e19327  usr/share/sddm/themes/breeze-black/components/SessionManagementScreen.qml
 b6c3be4e24615e9bd87e51b5dc313332  usr/share/sddm/themes/breeze-black/components/UserDelegate.qml
 316388fffcfebddb2d995f98f40da331  usr/share/sddm/themes/breeze-black/components/UserList.qml
-3a71859b93a3a924a2e3ca3c83718615  usr/share/sddm/themes/breeze-black/components/artwork/background.png
+66090a4dab81d40efcc4da72e5717732  usr/share/sddm/themes/breeze-black/components/artwork/background.png
 e54b6ee1be4b3f6285b6649731a8ff99  usr/share/sddm/themes/breeze-black/components/artwork/logout_primary.svgz
 e13b1911a8369c029d41634bd761962b  usr/share/sddm/themes/breeze-black/components/artwork/restart_primary.svgz
 9e4d0305395cfb31d015a6472bc49568  usr/share/sddm/themes/breeze-black/components/artwork/shutdown_primary.svgz
