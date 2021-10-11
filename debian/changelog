@@ -1,3 +1,9 @@
+neptune-settings-sddm (1.4) bullseye; urgency=medium
+
+  * Change startkde to startplasma-x11 in session file
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 11 Oct 2021 10:54:53 +0200
+
 neptune-settings-sddm (1.3) stretch; urgency=medium
 
   * Set minimumUID to 999
